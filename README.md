@@ -1,28 +1,25 @@
+# 🎓👷 Equipo 06 - Procesos de Innovación para la Ingeniería  
+
+**Carrera:** Ingeniería Industrial  
+**Universidad:** Universidad Peruana Cayetano Heredia  
+
+---
+
 ## 🌍 Descripción del Equipo  
-Somos el **Equipo 0X** del curso **Fundamentos de Diseño 2026-1**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
-## 🌍 Descripción del Equipo 
-Somos el **Equipo 0X** del curso **Nombre del curso 202X-1**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
-Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
-
-Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
-- ODS 3: Salud y Bienestar  
-- ODS 6: Agua Limpia y Saneamiento  
-- ODS 9: Industria, Innovación e Infraestructura  
-- ODS 11: Ciudades y Comunidades Sostenibles  
-- ODS 13: Acción por el Clima  
+Somos el **Equipo 06** del curso **Procesos de Innovación 2026-1**, conformado por estudiantes de Ingeniería Industrial.  
 
 ---
 
-## 📸 Fotografía del Equipo  
-<p align="center">
-<img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/user-attachments/assets/3829718f-51c7-4d00-b262-ef37f178f059" />
-  <em>Figura 1. Fotografía del equipo 0X</em>
-</p>
+## 🫂 Integrantes del Equipo  
 
----
-
-## 👥 Integrantes del Equipo  
-
-| Foto | Nombre | Rol | Intereses |
+| Foto | Nombres | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 1** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/Recursos/Imágenes/kevin.png" width="90"/> | **Kevin Canchari Condori** | Líder de equipo | Sostenibilidad |
+| <img src="/Recursos/Imágenes/julio.png" width="90"/> | **Julio Eduardo Maguiña Bernilla** | Encargado de documentación | Investigación científica, redacción organizada |
+| <img src="/Recursos/Imágenes/kiara.png" width="90"/> | **Kiara Siuyin Koo Martinez** | Diseñadora | Desarrollo y creación de ideas visuales creativas |
+| <img src="/Recursos/Imágenes/elzer.png" width="90"/> | **Elzer Samaniego Chuin** | Investigación | Desarrollo compatible |
+
+---
+
+## 📝 Resumen Final  
+Esta información resume quiénes somos, qué nos motiva y en qué verdaderamente estamos enfocados.

@@ -1,4 +1,4 @@
-# 🎓👷 Equipo 06 - Procesos de Innovación para la Ingeniería  
+# 🎓👷 Equipo 06 - Procesos de Innovación en Ingeniería  
 
 **Carrera:** Ingeniería Industrial  
 **Universidad:** Universidad Peruana Cayetano Heredia  

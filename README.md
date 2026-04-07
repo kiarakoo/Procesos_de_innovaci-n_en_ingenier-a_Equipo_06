@@ -17,7 +17,7 @@ Somos el **Equipo 06** del curso **Procesos de Innovación 2026-1**, conformado 
 
 
 ---
-## 🫂 Integrantes del Equipo  
+## 🫂 Integrantes  del  Equipo  
 
 | Foto | Nombres | Rol | Intereses |
 |------|--------|-----|-----------|
